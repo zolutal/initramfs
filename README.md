@@ -1,0 +1,2 @@
+# initramfs
+busybox initramfs
